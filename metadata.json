@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard: URL Risk Analyzer",
+  "description": "A professional cybersecurity tool to detect suspicious patterns in URLs, including IP addresses, shortening services, and typosquatting.",
+  "requestFramePermissions": []
+}
